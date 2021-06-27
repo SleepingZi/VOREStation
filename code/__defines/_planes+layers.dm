@@ -73,7 +73,7 @@ What is the naming convention for planes or layers?
 #define DIRTY_PLANE				-43 // Nonpermanent decals
 	#define DIRTY_LAYER			11
 #define BLOOD_PLANE				-42 // Blood is really dirty, but we can do special stuff if we separate it
-	#define BLOOD_LAYER			12
+	#define BLOOD_DECAL_LAYER	12
 
 // Obj planes
 #define OBJ_PLANE				-35
