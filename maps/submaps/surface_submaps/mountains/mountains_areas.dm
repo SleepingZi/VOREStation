@@ -167,3 +167,7 @@
 /area/submap/Speakeasy  //VOREStation add
 	name = "POI - Speakeasy"
 	requires_power = FALSE
+
+/area/submap/Ghost_Town //VOREStation add
+	name = "POI - Ghost Town"
+	ambience = AMBIENCE_RUINS

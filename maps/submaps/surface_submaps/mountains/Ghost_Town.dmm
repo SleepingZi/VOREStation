@@ -1,0 +1,40 @@
+"a" = (/turf/template_noop,/area/submap/Ghost_Town)
+"i" = (/turf/simulated/floor/water/contaminated,/area/submap/Ghost_Town)
+"r" = (/turf/simulated/floor/wood,/area/submap/Ghost_Town)
+"y" = (/turf/simulated/floor,/area/submap/Ghost_Town)
+"z" = (/turf/simulated/wall/sandstone,/area/submap/Ghost_Town)
+"F" = (/turf/simulated/floor/tiled/neutral,/area/submap/Ghost_Town)
+"I" = (/turf/simulated/wall/wood,/area/submap/Ghost_Town)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaazzzzzzFFFFIIIIIIIIIIIIIaaa
+ayyyzrrrrzFFFFIaaaaaaaaaaaIaaa
+ayyyzrrrrzFFFFIaaaaaaaaaaaIaaa
+azzzzrrrrzFFFFIaaaaaaaIIIaIaaa
+azrrrrrrrzFFFFIaaaaaaaIaaaIaaa
+azrrrrrrrzFFFFIaaaaaaaIaaaIaaa
+azrrrrrrrzFFFFIaaaaaaaIaaaIaaa
+azrrrrrrrzFFFFIaaaaaaaIaaaIaaa
+azrrrrrrrzFFFFIaaaaaaaIaaaIaaa
+azzzzzzrzzFFFFIIIIIIIIIIIIIaaa
+aaaaaFFFFFFiiFFaaaaaaaaaaaaaaa
+aaaaaFFFFFiiiiFaaaaaaaaaaaaaaa
+aaaaaFFFFFiiiiFaaaaaaaaaaaaaaa
+aaaaaaaaaFFiiFFaaaaaaaaaaaaaaa
+aaaaaaaaaaFFFFaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

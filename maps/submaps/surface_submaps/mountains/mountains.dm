@@ -42,6 +42,7 @@
 #include "excavation1.dmm"
 #include "spatial_anomaly.dmm"
 #include "speakeasy_vr.dmm"
+#include "Ghost_Town.dmm"
 #endif
 
 // The 'mountains' is the mining z-level, and has a lot of caves.
@@ -372,3 +373,9 @@
 	cost = 10
 	allow_duplicates = FALSE
 
+/datum/map_template/surface/mountains/normal/Ghost_Town //VOREStation add
+	name = "Ghost Town"
+	desc = "A strange abandoned"
+	mappath = 'maps/submaps/surface_submaps/mountains/Ghost_Town.dmm'
+	cost = 30
+	allow_duplicates = FALSE
